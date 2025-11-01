@@ -1,0 +1,8 @@
+torch>=2.0
+transformers>=4.35
+datasets>=2.12
+accelerate>=0.21
+peft>=0.6
+sympy>=1.12
+sentencepiece
+huggingface_hub
